@@ -3012,6 +3012,12 @@
     },
     "删除任务" : {
       "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Task"
+          }
+        },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4285,10 +4291,24 @@
       }
     },
     "更新失败：%@" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Failed: %@"
+          }
+        }
+      }
     },
     "更新完成" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Completed"
+          }
+        }
+      }
     },
     "更新设置" : {
       "localizations" : {
